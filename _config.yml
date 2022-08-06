@@ -21,10 +21,11 @@ author: Stefan Peidli
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects: "publications"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -53,26 +54,10 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: stefanpeidli
   twitter: SPeidli
-#  medium: yourname
-#  reddit: yourname
   linkedin: stefan-peidli-598228151
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
+  xing: Stefan_Peidli
   ORCID: 0000-0002-4257-8690
-  google-scholar: A684mbMAAAAJ
-#  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
-#  hackerrank: yourname
+  google-scholar: citations?user=A684mbMAAAAJ&hl=en
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
