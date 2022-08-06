@@ -109,15 +109,15 @@ navbar-var-length: false
 # Color scheme: KLM iFly 50 https://elementor.com/cdn-cgi/image/f=auto,w=720/marketing/wp-content/uploads/sites/9/2020/07/KLM.png
 # black #010101 tintedwhite #F4FAF8 darkgreyblue #435C5F lightgrey #98A09E cyanblue #3793CB
 navbar-col: "#435C5F"
-navbar-text-col: "#010101"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#435C5F"
 page-col: "#F4FAF8"
 text-col: "#010101"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#435C5F"
-footer-text-col: "#777777"
-footer-link-col: "#010101"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#e6e6e6"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
@@ -128,7 +128,7 @@ footer-hover-col: "#0085A1"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#435C5F"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
