@@ -20,6 +20,7 @@ author: Stefan Peidli
 ###############################################
 
 navbar-links:
+  Home: "https://stefanpeidli.github.io/"
   About Me: "aboutme"
   Projects: "publications"
   Legal Stuff: "legal"
