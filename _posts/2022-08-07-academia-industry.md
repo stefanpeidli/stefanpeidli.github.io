@@ -6,9 +6,6 @@ tags: [academia, industry, career]
 comments: true
 ---
 
-{: .box-note}
-**Note:** Keep my perspective in mind, which is that of a german computational biologist. If you do your PhD somewhere or in something else, your situation can be very different.
-
 This post is about the comparison of an academic and industry job **after** the PostDoc level.
 
 ## The Academic System
@@ -29,7 +26,6 @@ Apparently, the jump from PostDoc to PI is extremely difficult (most people do n
 - It is generally easier to go from academia to industry than the other way around. Possibly because in academia you lern more skills.
 
 ## Why you might want to leave academia
-
 - Lower salaries (significantly)
 - Financial instability: You might never get a permanent position until you become a Professor in academia (if you ever make it there even)
 - Academia is filled with narcicists (but are there less in industry in the upper levels though?)
@@ -45,6 +41,10 @@ Apparently, the jump from PostDoc to PI is extremely difficult (most people do n
 - "A PostDoc is mostly just not worth it IMO. If you decide to do one, make sure you absolutely love the project, lab and location you are committing to."
 
 ## Summary
+
+{: .box-note}
+**Note:** Keep my perspective in mind, which is that of a german computational biologist. If you do your PhD somewhere or in something else, your situation can be very different.
+
 Ask yourself: What do **you** want from your life. How do you think that might work out with a career in academia? 
 Don't be afraid to make a wrong decision. You can always go back.
 
