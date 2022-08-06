@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Some title for the website
+title: Stefan Peidli
 
 # Your name to show in the footer
 author: Stefan Peidli
@@ -121,17 +121,18 @@ navbar-var-length: false
 ######################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+# Color scheme: KLM iFly 50 https://elementor.com/cdn-cgi/image/f=auto,w=720/marketing/wp-content/uploads/sites/9/2020/07/KLM.png
+# black #010101 tintedwhite #F4FAF8 darkgreyblue #435C5F lightgrey #98A09E cyanblue #3793CB
+navbar-col: "#435C5F"
+navbar-text-col: "#010101"
+navbar-border-col: "#435C5F"
+page-col: "#F4FAF8"
+text-col: "#010101"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#435C5F"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#010101"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
@@ -244,7 +245,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
