@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Beyond the PostDoc - academia vs industry
-subtitle: And this is a subtitle
+title: Beyond the PostDoc
+subtitle: On a PhD career perspective in academia or industry
 tags: [academia, industry, career]
 comments: true
 ---
