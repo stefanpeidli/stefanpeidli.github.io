@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Beyond the PostDoc: academia vs industry
+title: Beyond the PostDoc - academia vs industry
 subtitle: And this is a subtitle
 tags: [academia, industry, career]
 comments: true
 ---
 
 {: .box-note}
-**Note:** Keep my perspective in mind, which is that of a german computational biologist. If you do your PhD somewhere and in in something else, your situation is probably very different.
+**Note:** Keep my perspective in mind, which is that of a german computational biologist. If you do your PhD somewhere or in something else, your situation can be very different.
 
-This post is about the comparison of an academic and industry job AFTER the PostDoc level.
+This post is about the comparison of an academic and industry job **after** the PostDoc level.
 
 ## The Academic System
 Many scientists describe the academic system as a hamster wheel:
