@@ -22,6 +22,7 @@ author: Stefan Peidli
 navbar-links:
   About Me: "aboutme"
   Projects: "publications"
+  Legal Stuff: "legal"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -50,8 +51,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "stefanpeidli@gmail.com"
   github: stefanpeidli
   twitter: SPeidli
   linkedin: stefan-peidli-598228151
@@ -61,7 +61,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -70,7 +70,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
@@ -99,7 +99,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "single cell,bioinformatics,machine learning"
 
 ######################################
 # --- Colours / background image --- #
