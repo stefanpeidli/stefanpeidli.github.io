@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Stuff I wrote or helped get written
+subtitle: Stuff I did or helped get done
 ---
 
 For most recent list, see [Google Scholar](https://scholar.google.de/citations?user=A684mbMAAAAJ&hl=en).
