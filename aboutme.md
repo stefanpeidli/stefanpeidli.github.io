@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Servus! (that means "hi" in bavarian)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Stefan Peidli. I'm a PhD student at the [Blüthgen Lab](https://www.sys-bio.net/) in Berlin, Germany.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My Current Research
 
-What else do you need?
+- All things single cell
+- Perturbation biology (drugs, crispr, ...)
+- Cancer (specifically colon and lung)
+- SARS-CoV2
+
+### Interests
+- Manifold Learning
+- Deep Learning
+- Immunology
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Bachelor and Master in Mathematics from [TU Munich](https://www.tum.de/en/)
