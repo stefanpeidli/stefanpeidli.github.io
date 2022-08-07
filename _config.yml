@@ -23,7 +23,7 @@ navbar-links:
   Home: "https://stefanpeidli.github.io/"
   About Me: "aboutme"
   Projects: "publications"
-  Legal Stuff: "legal"
+#   Legal Stuff: "legal"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
