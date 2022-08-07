@@ -25,7 +25,7 @@ My name is Stefan Peidli. I'm a PhD student at the [Blüthgen Lab](https://www.s
 - Bachelor in Mathematics with Minor in Physics at [TU Munich](https://www.tum.de/en/)
 
 ### Favorite Papers
-- Angerer, P., Haghverdi, L., Büttner, M., Theis, F. J., Marr, C., & Buettner, F. (2016). destiny: diffusion maps for large-scale single-cell data in R. Bioinformatics, 32(8), 1241-1243.
+- Haghverdi, L., Büttner, M., Wolf, F. A., Buettner, F., & Theis, F. J. (2016). Diffusion pseudotime robustly reconstructs lineage branching. Nature methods, 13(10), 845-848.
 - Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome biology, 15(12), 1-21.
 - Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. Queue, 16(3), 31-57.
 - Hinton, G. E. (2002). Training products of experts by minimizing contrastive divergence. Neural computation, 14(8), 1771-1800.
