@@ -16,19 +16,21 @@ Many scientists describe the academic system as a hamster wheel:
 - Hopefully, high impact papers coming out of it
 - Go to step 1 if you did not fail (and if you fail you are f-d)
 
-You enter this cycle when you become a PhD, but it becomes more and more vicous as you progress in your career. 
+You enter this cycle when you become a PhD, but it becomes more and more vicious as you progress in your career. 
 Apparently, the jump from PostDoc to PI is extremely difficult (most people do not make this step) and any step upwards on the academic career ladder from there on becomes progressively harder.
 
 ## Why you might want to stay in academia
-- Work itself is more relaxed. You can have coffee and discuss science with colleagues. This is rare in industry apparently.
 - You can way more freely decide what you work on.
 - You are working towards advancing humanity instead of mainly just for money. I bet this really pleases your ego...
-- It is generally easier to go from academia to industry than the other way around. Possibly because in academia you lern more skills.
+- It is generally easier to go from academia to industry than the other way around. Possibly because in academia you learn more skills.
+- You work with highly motivated and sophisticated people.
+- You can feed your curiosity.
 
 ## Why you might want to leave academia
 - Lower salaries (significantly)
 - Financial instability: You might never get a permanent position until you become a Professor in academia (if you ever make it there even)
 - Academia is filled with narcicists (but are there less in industry in the upper levels though?)
+- Science is very competitive, many people value success over scientific advancement.
 - Grants tend to go to people who are already established. If you do not have a profile, it is very hard to get any opportunities.
 - Working times seem to average around 50 to 70h/week
 - The insecure job perspectives (never having a permanent position, failing tenure) and having to deal with frequent rejections (papers, grants) causes constant stress and makes burnout significantly more likely. [3]
