@@ -4,7 +4,7 @@ title: About me
 subtitle: Servus! (that means "hi" in bavarian)
 ---
 
-My name is Stefan Peidli. I'm a PhD student at the [Blüthgen Lab](https://www.sys-bio.net/) in Berlin, Germany.
+My name is Stefan Peidli. I'm a Postdoc at the [Huber Group](https://www.huber.embl.de/group/) at EMBL, Heidelberg.
 
 ### My Current Research
 - Perturbation biology (drugs, crispr, ...)
@@ -19,9 +19,10 @@ My name is Stefan Peidli. I'm a PhD student at the [Blüthgen Lab](https://www.s
 - Fast Evolution (e.g. of Cancer or Viruses)
 
 ### My story
-- PhD in Computational Biology in Berlin (ongoing)
+- Bioinformatics Postdoc at [EMBL](https://www.embl.de/) working with [Open Targets](https://www.opentargets.org/)
+- PhD in Computational Biology in Berlin
 - Started working at Theislab, found out I like computational biology
-- Master in Mathematics at [TU Munich](https://www.tum.de/en/)
+- Master in Mathematics at [TU Munich](https://www.tum.de/en/), found out I like machine learning
 - Bachelor in Mathematics with Minor in Physics at [TU Munich](https://www.tum.de/en/)
 
 ### Favorite Papers
